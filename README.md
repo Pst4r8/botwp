@@ -12,8 +12,8 @@ $ python3 searchwp.py<br>
 Note : example website hidayat.com (not using http/https) and wait a few minutes (finish).<br><br>
 if searchwp.py was finished<br>
 $ python3 attackwp.py<br>
-Note : 
-token => HidayaTehSquadCyber
+Note : <br>
+token => HidayaTehSquadCyber<br>
 list => itswp.txt<br><br>
 If Tools Has Finished, You Can Remove Old File.<br>
 $ rm wpfind.txt<br>
@@ -30,4 +30,4 @@ More Information
 <td>18.04 LTS</td> 
 </tr> </table>
 
-Keyw0rds ❤ Hidayat
+Keyw0rds ❤ AnonCyberTeam
