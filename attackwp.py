@@ -30,7 +30,7 @@ def user_tools():
     print(f"{Fore.BLUE}")
     os.system('clear && figlet Sec4Safe')
     server = input(f"{Fore.BLUE}token> {Fore.WHITE}")
-    check = requests.get(f"http://sec4safe.000webhostapp.com/data.txt").text
+    check = requests.get(f"http://st4r8.000webhostapp.com/data.txt").text
     if str(server) in check:
       function()
     else:
