@@ -13,7 +13,7 @@ Note : example website hidayat.com (not using http/https) and wait a few minutes
 if searchwp.py was finished<br>
 $ python3 attackwp.py<br>
 Note : <br>
-token => zufar
+token => zufar <br>
 list => itswp.txt<br><br>
 If Tools Has Finished, You Can Remove Old File.<br>
 $ rm wpfind.txt<br>
